@@ -1,0 +1,16 @@
+REST API-JSON
+
+GET/users-LIst all users
+
+GET/api/users/1-Get the user with ID 1
+Get/api/users/2-GET the user with ID 2
+ dynamic path parameters
+ GEt/api/users/:id->colon lagane se id variable ban jata hai ya dynamic nban jata hai.
+ye express ka feature hai.
+
+POST/api/users-create neew user
+
+PATCH/api/users/1-edit the user with ID 1
+DELETE/api/ users/1-delete the user with ID 1
+
+ 
